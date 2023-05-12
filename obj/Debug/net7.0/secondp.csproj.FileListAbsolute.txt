@@ -1,0 +1,15 @@
+D:\C#\secondp\bin\Debug\net7.0\secondp.exe
+D:\C#\secondp\bin\Debug\net7.0\secondp.deps.json
+D:\C#\secondp\bin\Debug\net7.0\secondp.runtimeconfig.json
+D:\C#\secondp\bin\Debug\net7.0\secondp.dll
+D:\C#\secondp\bin\Debug\net7.0\secondp.pdb
+D:\C#\secondp\obj\Debug\net7.0\secondp.csproj.AssemblyReference.cache
+D:\C#\secondp\obj\Debug\net7.0\secondp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\secondp\obj\Debug\net7.0\secondp.AssemblyInfoInputs.cache
+D:\C#\secondp\obj\Debug\net7.0\secondp.AssemblyInfo.cs
+D:\C#\secondp\obj\Debug\net7.0\secondp.csproj.CoreCompileInputs.cache
+D:\C#\secondp\obj\Debug\net7.0\secondp.dll
+D:\C#\secondp\obj\Debug\net7.0\refint\secondp.dll
+D:\C#\secondp\obj\Debug\net7.0\secondp.pdb
+D:\C#\secondp\obj\Debug\net7.0\secondp.genruntimeconfig.cache
+D:\C#\secondp\obj\Debug\net7.0\ref\secondp.dll
