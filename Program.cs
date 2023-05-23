@@ -14,7 +14,7 @@
          fnum=Convert.ToInt32(Console.ReadLine());
          Console.WriteLine("Enter second number");
          snum=Convert.ToInt32(Console.ReadLine());
-         Console.WriteLine("Enter therd number");
+         Console.WriteLine("Enter third number");
          tnum=Convert.ToInt32(Console.ReadLine());
          avarage=(fnum+snum+tnum)/3;
 
@@ -33,7 +33,7 @@
             Console.WriteLine("Your rolled: "+ roll);
             attempts++;
          }
-         Console.WriteLine("It took you "+attempts+ "attempts to roll a six")
+         Console.WriteLine("It take "+attempts+ "attempts to roll a six")
 
         Console.ReadKey();
     }
