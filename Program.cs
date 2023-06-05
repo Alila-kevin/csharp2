@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        /*
+      
         //avarage of three numbers
         
         int fnum;
@@ -19,7 +19,7 @@
          avarage=(fnum+snum+tnum)/3;
 
          Console.WriteLine("The avarage of given: "+ fnum +", "+snum+" and "+tnum+" is: "+avarage);
-         */
+        //Run the below code separately becouse they deserve deferent functions
          //loops
          Random numbergen=new Random();
          int roll=0;
